@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.APPUCENM2026PMI">
         <activity
-            android:name=".MainActivity"
+            android:name=".ActivityCombo"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
